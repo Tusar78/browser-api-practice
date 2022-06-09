@@ -1,0 +1,63 @@
+What Are Cookies?
+Cookies are text files with small pieces of data — like a username and password — that are used to identify your computer as you use a computer network. Specific cookies known as HTTP cookies are used to identify specific users and improve your web browsing experience.
+
+Data stored in a cookie is created by the server upon your connection. This data is labeled with an ID unique to you and your computer.
+
+When the cookie is exchanged between your computer and the network server, the server reads the ID and knows what information to specifically serve to you.
+
+Different types of cookies - Magic Cookies and HTTP Cookies
+Magic Cookies
+HTTP Cookies
+Cookies generally function the same but have been applied to different use cases:
+
+"Magic cookies" are an old computing term that refers to packets of information that are sent and received without changes. Commonly, this would be used for a login to computer database systems, such as a business internal network. This concept predates the modern “cookie” we use today.
+
+HTTP cookies are a repurposed version of the “magic cookie” built for internet browsing. Web browser programmer Lou Montulli used the “magic cookie” as inspiration in 1994. He recreated this concept for browsers when he helped an online shopping store fix their overloaded servers.
+
+The HTTP cookie is what we currently use to manage our online experiences. It is also what some malicious people can use to spy on your online activity and steal your personal info.
+
+To explain, you’ll want to understand exactly what are internet cookies and why do they matter?
+
+What are HTTP Cookies?
+HTTP cookies, or internet cookies, are built specifically for Internet web browsers to track, personalize, and save information about each user’s session. A “session” just refers to the time you spend on a site.
+
+Cookies are created to identify you when you visit a new website. The web server — which stores the website’s data — sends a short stream of identifying info to your web browser.
+
+Browser cookies are identified and read by “name-value” pairs. These tell cookies where to be sent and what data to recall.
+
+The server only sends the cookie when it wants the web browser to save it. If you’re wondering “where are cookies stored,” it’s simple: your web browser will store it locally to remember the “name-value pair” that identifies you.
+
+If a user returns to that site in the future, the web browser returns that data to the web server in the form of a cookie. This is when your browser will send it back to the server to recall data from your previous sessions.
+
+To put it simply, cookies are a bit like getting a ticket for a coat check:
+
+You hand over your “coat” to the cloak desk. In this case, a pocket of data is linked to you on the website server when you connect. This data can be your personal account, your shopping cart, or even just what pages you’ve visited.
+You get a “ticket” to identify you as the “coat” owner. The cookie for the website is given to you and stored in your web browser. It has a unique ID especially for you.
+If you leave and return, you can get the “coat” with your “ticket”. Your browser gives the website your cookie. It reads the unique ID in the cookie to assemble your activity data and recall your visit just as you left it.
+What Are Cookies Used For?
+Websites use HTTP cookies to streamline your web experiences. Without cookies, you’d have to login again after you leave a site or rebuild your shopping cart if you accidentally close the page. Making cookies an important a part of the internet experience.
+
+Based on this, you’ll want to understand why they’re worth keeping — and when they’re not.
+
+Here’s how cookie are intended to be used:
+
+Session management. For example, cookies let websites recognize users and recall their individual login information and preferences, such as sports news versus politics.
+Personalization. Customized advertising is the main way cookies are used to personalize your sessions. You may view certain items or parts of a site, and cookies use this data to help build targeted ads that you might enjoy.
+Tracking. Shopping sites use cookies to track items users previously viewed, allowing the sites to suggest other goods they might like and keep items in shopping carts while they continue shopping.
+While this is mostly for your benefit, web developers get a lot out of this set-up as well.
+
+Cookies are stored on your device locally to free up storage space on a website’s servers. In turn, websites can personalize while saving money on server maintenance and storage costs.
+
+What are the different types of HTTP Cookies?
+With a few variations, cookies in the cyber world come in two types: session and persistent.
+
+Session cookies are used only while navigating a website. They are stored in random access memory and are never written to the hard drive.
+
+When the session ends, session cookies are automatically deleted. They also help the "back" button or third-party anonymizer plugins work. These plugins are designed for specific browsers to work and help maintain user privacy.
+
+Persistent cookies remain on a computer indefinitely, although many include an expiration date and are automatically removed when that date is reached.
+
+Persistent cookies are used for two primary purposes:
+
+Authentication. These cookies track whether a user is logged in and under what name. They also streamline login information, so users don't have to remember site passwords.
+Tracking. These cookies track multiple visits to the same site over time. Some online merchants, for example, use cookies to track visits from particular users, including the pages and products viewed. The information they gain allows them to suggest other items that might interest visitors. Gradually, a profile is built based on a user's browsing history on that site.

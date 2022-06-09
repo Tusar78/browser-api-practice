@@ -11,9 +11,9 @@
 // alert(result)
 
 // Confirm 
-const userCheck = confirm('Are you this website link?');
-if (userCheck) {
-  console.log(location.href);
-} else {
-  alert('Dure Gia Mor! (DGM)');
-}
+// const userCheck = confirm('Are you this website link?');
+// if (userCheck) {
+//   console.log(location.href);
+// } else {
+//   alert('Dure Gia Mor! (DGM)');
+// }
